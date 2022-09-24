@@ -1,0 +1,202 @@
+[
+    {
+        "id": "632ec1450ca7bed8110a8f33",
+        "price": 658,
+        "eyeColor": "brown",
+        "name": "Martinez Myers",
+        "gender": "male",
+        "company": "KLUGGER",
+        "email": "martinezmyers@klugger.com",
+        "phone": "+1 (955) 451-2048"
+    },
+    {
+        "id": "632ec145894756bb0d3cac16",
+        "price": 433,
+        "eyeColor": "blue",
+        "name": "Phelps Wallace",
+        "gender": "male",
+        "company": "GEEKOSIS",
+        "email": "phelpswallace@geekosis.com",
+        "phone": "+1 (861) 527-2409"
+    },
+    {
+        "id": "632ec14549800e22269d724d",
+        "price": 89,
+        "eyeColor": "green",
+        "name": "Mckay Armstrong",
+        "gender": "male",
+        "company": "ZERBINA",
+        "email": "mckayarmstrong@zerbina.com",
+        "phone": "+1 (953) 507-3447"
+    },
+    {
+        "id": "632ec1455273dbc0dd82e60a",
+        "price": 762,
+        "eyeColor": "brown",
+        "name": "Janine Herrera",
+        "gender": "female",
+        "company": "UPDAT",
+        "email": "janineherrera@updat.com",
+        "phone": "+1 (974) 414-2670"
+    },
+    {
+        "id": "632ec145a42bbab073136a0e",
+        "price": 524,
+        "eyeColor": "blue",
+        "name": "Atkins Fox",
+        "gender": "male",
+        "company": "DOGSPA",
+        "email": "atkinsfox@dogspa.com",
+        "phone": "+1 (902) 407-2965"
+    },
+    {
+        "id": "632ec145bdac0b1aa77f70cd",
+        "price": 226,
+        "eyeColor": "green",
+        "name": "Fleming Mcdaniel",
+        "gender": "male",
+        "company": "ISONUS",
+        "email": "flemingmcdaniel@isonus.com",
+        "phone": "+1 (954) 499-3582"
+    },
+    {
+        "id": "632ec145e743d3f3342fe5a3",
+        "price": 569,
+        "eyeColor": "brown",
+        "name": "Tisha Garner",
+        "gender": "female",
+        "company": "NURPLEX",
+        "email": "tishagarner@nurplex.com",
+        "phone": "+1 (971) 532-3883"
+    },
+    {
+        "id": "632ec14548dbf86a4def6614",
+        "price": 409,
+        "eyeColor": "brown",
+        "name": "Alisa Gardner",
+        "gender": "female",
+        "company": "OPTICON",
+        "email": "alisagardner@opticon.com",
+        "phone": "+1 (855) 444-3747"
+    },
+    {
+        "id": "632ec1450b1668de4aac71f4",
+        "price": 200,
+        "eyeColor": "green",
+        "name": "Beatriz Leon",
+        "gender": "female",
+        "company": "AQUASSEUR",
+        "email": "beatrizleon@aquasseur.com",
+        "phone": "+1 (945) 550-3311"
+    },
+    {
+        "id": "632ec145529c81155cadb035",
+        "price": 481,
+        "eyeColor": "green",
+        "name": "Howe Sawyer",
+        "gender": "male",
+        "company": "KANGLE",
+        "email": "howesawyer@kangle.com",
+        "phone": "+1 (983) 412-2225"
+    },
+    {
+        "id": "632ec14528c9ea41705e1749",
+        "price": 690,
+        "eyeColor": "brown",
+        "name": "Daisy Hoover",
+        "gender": "female",
+        "company": "OATFARM",
+        "email": "daisyhoover@oatfarm.com",
+        "phone": "+1 (922) 496-3211"
+    },
+    {
+        "id": "632ec14552b7d3f9fd6bfae0",
+        "price": 830,
+        "eyeColor": "green",
+        "name": "Kerry Osborne",
+        "gender": "female",
+        "company": "PYRAMIA",
+        "email": "kerryosborne@pyramia.com",
+        "phone": "+1 (876) 572-3890"
+    },
+    {
+        "id": "632ec14525af9fcc9911d010",
+        "price": 494,
+        "eyeColor": "brown",
+        "name": "Briggs Bolton",
+        "gender": "male",
+        "company": "MEDIOT",
+        "email": "briggsbolton@mediot.com",
+        "phone": "+1 (924) 570-3050"
+    },
+    {
+        "id": "632ec1454e4ba7ae4f1bcf86",
+        "price": 140,
+        "eyeColor": "blue",
+        "name": "Eve Kerr",
+        "gender": "female",
+        "company": "GEEKY",
+        "email": "evekerr@geeky.com",
+        "phone": "+1 (879) 455-2068"
+    },
+    {
+        "id": "632ec145d17cf07f43e79dce",
+        "price": 469,
+        "eyeColor": "brown",
+        "name": "Margo Andrews",
+        "gender": "female",
+        "company": "TROPOLIS",
+        "email": "margoandrews@tropolis.com",
+        "phone": "+1 (917) 476-3382"
+    },
+    {
+        "id": "632ec1451b0173ff2572b7ab",
+        "price": 22,
+        "eyeColor": "blue",
+        "name": "Mcfarland Mitchell",
+        "gender": "male",
+        "company": "VALPREAL",
+        "email": "mcfarlandmitchell@valpreal.com",
+        "phone": "+1 (866) 432-3572"
+    },
+    {
+        "id": "632ec145c9f291d13e1d28eb",
+        "price": 502,
+        "eyeColor": "blue",
+        "name": "Lola Wood",
+        "gender": "female",
+        "company": "MUSANPOLY",
+        "email": "lolawood@musanpoly.com",
+        "phone": "+1 (929) 450-3260"
+    },
+    {
+        "id": "632ec1457c69f22102f1d10a",
+        "price": 527,
+        "eyeColor": "blue",
+        "name": "Patrica Garrison",
+        "gender": "female",
+        "company": "FOSSIEL",
+        "email": "patricagarrison@fossiel.com",
+        "phone": "+1 (983) 473-3848"
+    },
+    {
+        "id": "632ec145c253425dcb7bea1a",
+        "price": 29,
+        "eyeColor": "blue",
+        "name": "Wong Suarez",
+        "gender": "male",
+        "company": "SYNKGEN",
+        "email": "wongsuarez@synkgen.com",
+        "phone": "+1 (981) 416-3998"
+    },
+    {
+        "id": "632ec145a996a2eb4a65d3de",
+        "price": 338,
+        "eyeColor": "brown",
+        "name": "Bates Gamble",
+        "gender": "male",
+        "company": "ISOPLEX",
+        "email": "batesgamble@isoplex.com",
+        "phone": "+1 (890) 459-2250"
+    }
+]
